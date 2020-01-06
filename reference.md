@@ -5,6 +5,7 @@
 
 ## Blog writing
 - 리팩토링에 대해 잘 설명해놓은 글 (https://feel5ny.github.io/2017/12/09/Refactoring/)
+- [라인 엔지니어링]코드 가독성에 대해 1편.<시리즈물로 계속 추가될 예정> (https://engineering.linecorp.com/ko/blog/code-readability-vol1/)
 
 ## Book
 
